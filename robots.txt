@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eihungieko.w3cub.com/sitemap.xml
